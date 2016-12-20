@@ -5,5 +5,5 @@
  • Technologies Used: numpy, pandas, scipy, sklearn
 
 ### Run Instruction
-1 - You need to installed python 2.7 and jupyter notebook before run this project.
-2 - Open pynb file in jupyter notebook to analyze data.
+1 - You need to installed python 2.7 and jupyter notebook before run this project.  
+2 - Open pynb file in jupyter notebook to analyze data.  
